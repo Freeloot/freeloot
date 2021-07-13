@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on discord bots
 - 🤔 Twitter: @SirHentaii
 - 🤔 Twitter: @InfamyDev
-- 🎥 Youtube: youtube.com.MichaelLIVE
+- 🎥 Youtube: youtube.com/MichaelLIVE
 - 💬 Ask me about Anything
 - 📫 How to reach me: discord.gg/2NWpB3vRdy
 - 😄 Pronouns: He/Him
