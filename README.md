@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my server 😄
+- 🔭 I’m currently working on my self bot 😄
 - 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on discord bots
+- 👯 I’m looking to collaborate on games, web apps or discord bots
 - 🤔 Twitter: @SirHentaii
 - 🤔 Twitter: @InfamyDev
 - 🎥 Youtube: youtube.com/MichaelLIVE
