@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my self bot 😄
+- 🔭 I’m currently working on my discord bot 😄
 - 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on games, web apps or discord bots
+- 👯 I’m looking to collaborate on games, web apps, viruses or discord bots
 - 🤔 Twitter: @SirHentaii
 - 🤔 Twitter: @InfamyDev
 - 🎥 Youtube: youtube.com/MichaelLIVE
 - 💬 Ask me about Anything
-- 📫 How to reach me: discord.gg/2NWpB3vRdy
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: https://discord.gg/aWRdkTavNM
 
 
 [![Freeloot's github stats](https://github-readme-stats.vercel.app/api?username=freeloot&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
