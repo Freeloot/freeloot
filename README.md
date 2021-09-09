@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my discord bot 😄
-- 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on games, web apps, viruses or discord bots
+- 🌱 I’m currently learning C# and JavaScript
+- 👯 I’m looking to collaborate on games, web apps, malware or discord bots
 - 🤔 Twitter: @SirHentaii
 - 🤔 Twitter: @InfamyDev
 - 🎥 Youtube: youtube.com/MichaelLIVE
