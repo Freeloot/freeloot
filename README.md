@@ -1,9 +1,9 @@
 ### Hello
 
 - 👯 I’m looking to collaborate on games, web apps, malware or discord bots
-- 
+
 - 🎥 Youtube: youtube.com/MichaelLIVE
-- 
+ 
 - 📫 How to reach me: Infamy#6929
 
 
