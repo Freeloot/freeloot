@@ -1,12 +1,9 @@
-### Hey
+### Hello
 
-- 🔭 I’m currently working on my discord bot 😄
-- 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on games, web apps, malware or discord bots
-- 🤔 Twitter: @SirHentaii
-- 🤔 Twitter: @InfamyDev
+- 
 - 🎥 Youtube: youtube.com/MichaelLIVE
-- 💬 Ask me about Anything
+- 
 - 📫 How to reach me: Infamy#6929
 
 
