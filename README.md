@@ -1,6 +1,6 @@
 ### Hello World
 
-- I’m looking to collaborate on games, web apps, malware or discord bots
+I’m looking to collaborate on games, web apps, malware or discord bots
 Youtube: https://www.youtube.com/channel/UCvhLFK4XnPRTxZ8CGOUIosA
  How to reach me: Infamy#0010 (discord)
 
