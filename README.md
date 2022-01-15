@@ -1,10 +1,8 @@
-### Hello
+### Hello World
 
 - I’m looking to collaborate on games, web apps, malware or discord bots
-
-- Youtube: youtube.com/MichaelLIVE
- 
-- How to reach me: Infamy#0010 (discord)
+Youtube: https://www.youtube.com/channel/UCvhLFK4XnPRTxZ8CGOUIosA
+ How to reach me: Infamy#0010 (discord)
 
 
 [![Freeloot's github stats](https://github-readme-stats.vercel.app/api?username=freeloot&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
