@@ -4,7 +4,7 @@ I’m looking to collaborate on games, web apps, malware or discord bots
 
 Youtube: https://www.youtube.com/channel/UCvhLFK4XnPRTxZ8CGOUIosA
 
-How to reach me: Infamy#0010 (discord)
+How to reach me: Infamy#2588 (discord)
  
 Currently learning C#
 
