@@ -4,11 +4,9 @@ I’m looking to collaborate on games, web apps, malware or discord bots
 
 How to reach me: Infamy#2588 (discord)
 
-### 💻 Latest Youtube Videos
-<!     YOUTUBE:START     >
-<!      YOUTUBE:END     >
+### 💻 Youtube
+https://www.youtube.com/channel/UCvhLFK4XnPRTxZ8CGOUIosA
 
-[youtube]: https://www.youtube.com/channel/UCvhLFK4XnPRTxZ8CGOUIosA
 
 
 [![Freeloot's github stats](https://github-readme-stats.vercel.app/api?username=freeloot&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
