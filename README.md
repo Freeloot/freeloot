@@ -10,9 +10,10 @@ How to reach me: Infamy#2588 (discord)
 [<img alt="youtube main" width="45px" src="https://github.com/freeloot/freeloot/blob/main/download%20(48).png" />](https://www.youtube.com/channel/UCvhLFK4XnPRTxZ8CGOUIosA)
 
 ### Lanugages and Tools:
-[<img alt="pain.net" width="65px" src="https://github.com/freeloot/freeloot/blob/main/download%20(50).png" />](https://www.getpaint.net/)
+[<img alt="pain.net" width="60px" src="https://github.com/freeloot/freeloot/blob/main/download%20(50).png" />](https://www.getpaint.net/)
 [<img alt="css3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
 [<img alt="javascript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img alt="html5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://www.w3.org/html/)
 
 
 [![Freeloot's github stats](https://github-readme-stats.vercel.app/api?username=freeloot&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
