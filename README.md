@@ -13,7 +13,9 @@ How to reach me: Infamy#2588 (discord)
 [<img alt="css3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
 [<img alt="javascript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="html5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />](https://www.w3.org/html/)
-[<img alt="pain.net" width="40px" src="https://github.com/freeloot/freeloot/blob/main/download%20(50).png" />](https://www.getpaint.net/)
+[<img alt="bash" width="40px" src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" />](https://www.gnu.org/software/bash/)
+[<img alt="node" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org/)
+[<img alt="pain.net" width="64px" src="https://github.com/freeloot/freeloot/blob/main/download%20(50).png" />](https://www.getpaint.net/)
 
 
 [![Freeloot's github stats](https://github-readme-stats.vercel.app/api?username=freeloot&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
