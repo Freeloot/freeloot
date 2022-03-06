@@ -20,7 +20,7 @@ How to reach me: Infamy#2588 (discord)
 [<img alt="linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org/)
 [<img alt="pain.net" width="64px" src="https://github.com/freeloot/freeloot/blob/main/download%20(50).png" />](https://www.getpaint.net/)
 [<img alt="python" width="40px" src="https://github.com/freeloot/freeloot/blob/main/download%20(2).png" />](https://www.python.org/)
-
+[<img alt="cpp" width="40px" src="https://github.com/freeloot/freeloot/blob/main/download%20(52).png" />](https://gcc.gnu.org/)
 
 [![Freeloot's github stats](https://github-readme-stats.vercel.app/api?username=freeloot&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
