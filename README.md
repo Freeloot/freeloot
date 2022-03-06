@@ -5,7 +5,7 @@ I’m looking to collaborate on games, web apps, malware or discord bots
 How to reach me: Infamy#2588 (discord)
 
 ### 💻 Youtube
-![Main channel](https://www.youtube.com/channel/UCvhLFK4XnPRTxZ8CGOUIosA)
+![Main channel](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.yQpJaWRFoKl-eaX16v727gHaHa%26pid%3DApi&f=1)
 
 
 
