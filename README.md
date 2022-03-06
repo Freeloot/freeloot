@@ -10,7 +10,7 @@ How to reach me: Infamy#2588 (discord)
 [<img alt="youtube main" width="40px" src="https://github.com/freeloot/freeloot/blob/main/download%20(48).png" />](https://www.youtube.com/channel/UCvhLFK4XnPRTxZ8CGOUIosA)
 
 ### Tools:
-[<img alt="pain.net" width="60px" src="https://github.com/freeloot/freeloot/blob/main/download%20(50).png" />](https://www.getpaint.net/)
+[<img alt="pain.net" width="80px" src="https://github.com/freeloot/freeloot/blob/main/download%20(50).png" />](https://www.getpaint.net/)
 
 
 [![Freeloot's github stats](https://github-readme-stats.vercel.app/api?username=freeloot&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
