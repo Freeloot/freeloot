@@ -7,10 +7,11 @@ How to reach me: Infamy#2588 (discord)
 ### Socials:
 [<img alt="discord" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />](https://discord.gg/bvrd8jkpGc)
 [<img alt="twitter" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://twitter.com/InfamyDev)
-[<img alt="youtube main" width="40px" src="https://github.com/freeloot/freeloot/blob/main/download%20(48).png" />](https://www.youtube.com/channel/UCvhLFK4XnPRTxZ8CGOUIosA)
+[<img alt="youtube main" width="50px" src="https://github.com/freeloot/freeloot/blob/main/download%20(48).png" />](https://www.youtube.com/channel/UCvhLFK4XnPRTxZ8CGOUIosA)
 
 ### Tools:
-[<img alt="pain.net" width="80px" src="https://github.com/freeloot/freeloot/blob/main/download%20(50).png" />](https://www.getpaint.net/)
+[<img alt="pain.net" width="70px" src="https://github.com/freeloot/freeloot/blob/main/download%20(50).png" />](https://www.getpaint.net/)
+[<img alt="css3" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />](https://www.w3schools.com/css/)
 
 
 [![Freeloot's github stats](https://github-readme-stats.vercel.app/api?username=freeloot&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
