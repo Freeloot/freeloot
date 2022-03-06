@@ -1,5 +1,5 @@
 # Hello World!
-### $~~~~~~~~~~~$ My Socials
+###          A learning developer
 
 - I’m looking to collaborate on **games, web apps, malware or discord bots**
 
