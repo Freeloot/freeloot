@@ -1,8 +1,8 @@
 # Hello World!
 
-I’m looking to collaborate on **games, web apps, malware or discord bots**
+- I’m looking to collaborate on **games, web apps, malware or discord bots**
 
-How to reach me: Infamy#2588 (discord)
+- How to reach me: Infamy#2588 (discord)
 
 ### My Socials:
 [<img alt="discord" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />](https://discord.gg/bvrd8jkpGc)
