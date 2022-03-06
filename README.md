@@ -5,7 +5,6 @@ I’m looking to collaborate on games, web apps, malware or discord bots
 How to reach me: Infamy#2588 (discord)
 
 ### 💻 Youtube
-[![twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/InfamyDev)
 
 
 
