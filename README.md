@@ -3,6 +3,8 @@
 
 - I’m looking to collaborate on **games, web apps, malware or discord bots**
 
+- I'm currently working on my website
+
 - How to reach me: Infamy#2588 (discord)
 
 ### My Socials:
