@@ -3,7 +3,7 @@
 
 - I’m looking to collaborate on **scripts, web apps, malware or discord bots**
 
-- I'm currently **working on my website**
+- I'm currently **improving my coding skills**
 
 - How to reach me: **Infamy#2588** (discord)
 
