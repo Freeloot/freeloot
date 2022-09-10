@@ -1,7 +1,7 @@
 # Hello World, I'm Infamy!
 ### A learning developer
 
-- I’m looking to collaborate on **games, web apps, malware or discord bots**
+- I’m looking to collaborate on **scripts, web apps, malware or discord bots**
 
 - I'm currently **working on my website**
 
